@@ -1,0 +1,19 @@
+/* Batchbloom theme */
+:root {
+  --pp-accent: #a4501a;
+  --pp-accent-hover: #874215;
+  --pp-accent2: #ffc979;
+  --pp-ink: #24180f;
+  --pp-muted: #62554a;
+  --pp-paper: #faf6ef;
+  --pp-tint: #f2eadc;
+  --pp-card: #fffdf9;
+  --pp-line: #e5dac8;
+  --pp-dark: #2a1a0e;
+  --pp-dark-ink: #fbf3e6;
+  --pp-serif: 'Fraunces', Georgia, serif;
+  --pp-sans: 'Nunito Sans', system-ui, sans-serif;
+  --pp-mono: 'IBM Plex Mono', ui-monospace, monospace;
+  --pp-display-weight: 600;
+}
+
